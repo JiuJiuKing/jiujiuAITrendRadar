@@ -36,8 +36,7 @@ DJI
 
 python
 pytorch
-+技术
-!培训
+
 
 饺子
 杨宇
